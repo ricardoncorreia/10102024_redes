@@ -11,7 +11,7 @@ descrição do execicio
   - Configuração do Domain Controller ( server ) 
   - Configuração do DNS
   - Criação dos utilizadores
-      - 
+    - 
   - Adição dos 3 clientes ao dominio "enta.pt"
   - Criação dos websites
 
