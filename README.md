@@ -1,5 +1,5 @@
 # 10102024_redes
-descrição do execicio
+descrição do execicio - Criação de um dominio, de máquinas, de sites e a sua configuração
 
 1ºpasso:
   - Criação das maquinas ( 1 server, 3 clientes )
